@@ -35,4 +35,15 @@ App will start on: http://127.0.0.1:5000/
 
 ---
 
-# 📮 API Endpoint
+## 📮 API Endpoint
+POST /calculate
+🔸 Request (JSON)
+```
+{
+  "num1": 10,
+  "num2": 5,
+  "operation": "add"
+}
+```
+
+
