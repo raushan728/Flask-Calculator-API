@@ -45,5 +45,12 @@ App will start on: http://127.0.0.1:5000/
   "operation": "add"
 }
 ```
+🔹 Supported operations:
+- "add": Addition
 
+- "sub": Subtraction
+
+- "mul": Multiplication
+
+- "div": Division
 
