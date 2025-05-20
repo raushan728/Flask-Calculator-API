@@ -20,3 +20,5 @@ A simple RESTful API built with Flask to perform basic arithmetic operations: ad
 ```bash
 git clone https://github.com/raushan728/Flask-Calculator-API.git
 cd Flask-Calculator-API
+```
+
