@@ -67,12 +67,16 @@ App will start on: http://127.0.0.1:5000/
 ---
 
 ## ⚠️ Error Handling
+
 - Missing input → {"error": "Missing input"}
-
 - Invalid numbers → {"error": "Invalid number format"}
-
 - Divide by zero → {"error": "Cannot divide by zero"}
-
 - Invalid operation → {"error": "Invalid operation"}
+
+---
+
+## 🛠️ Technologies Used
+- Python 3
+- Flask
 
 
