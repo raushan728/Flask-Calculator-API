@@ -27,3 +27,12 @@ cd Flask-Calculator-API
 pip install -r requirements.txt
 ```
 
+### 3. Run the Flask App
+```
+python app.py
+```
+App will start on: http://127.0.0.1:5000/
+
+---
+
+# 📮 API Endpoint
