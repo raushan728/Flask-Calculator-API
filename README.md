@@ -22,3 +22,8 @@ git clone https://github.com/raushan728/Flask-Calculator-API.git
 cd Flask-Calculator-API
 ```
 
+### 2. Install Dependencies
+```
+pip install -r requirements.txt
+```
+
