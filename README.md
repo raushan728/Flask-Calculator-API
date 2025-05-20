@@ -45,7 +45,7 @@ App will start on: http://127.0.0.1:5000/
   "operation": "add"
 }
 ```
-🔹 Supported operations:
+#### 🔹 Supported operations:
 - "add": Addition
 
 - "sub": Subtraction
@@ -53,4 +53,26 @@ App will start on: http://127.0.0.1:5000/
 - "mul": Multiplication
 
 - "div": Division
+
+#### 🔸 Response (JSON)
+```
+{
+  "num1": 10.0,
+  "num2": 5.0,
+  "operation": "add",
+  "result": 15.0
+}
+```
+
+---
+
+## ⚠️ Error Handling
+- Missing input → {"error": "Missing input"}
+
+- Invalid numbers → {"error": "Invalid number format"}
+
+- Divide by zero → {"error": "Cannot divide by zero"}
+
+- Invalid operation → {"error": "Invalid operation"}
+
 
